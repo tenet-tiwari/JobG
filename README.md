@@ -49,5 +49,5 @@ JobG is built using the following technologies:
 
 ## Screenshots
 
-![JobG Screenshot](./utils/logo.jpg)
+![JobG Screenshot](./backend/utils//logo.jpg)
 
