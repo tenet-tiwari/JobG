@@ -43,7 +43,7 @@ const HeroSection = () => {
             </p>
           </div></div>
           <div className="w-1/2 p-8 hidden md:flex">
-            <img className="rounded-3xl animate-pulse " src="https://img.freepik.com/free-vector/laptop-isometric-hiring-illustration_23-2148085112.jpg?t=st=1720441306~exp=1720444906~hmac=da4528d97fde13b6fdcd88e103bb189ac627a86ded0718c73f266edbb6a5fd55&w=740" alt="hero" />
+            <img className="rounded-3xl " src="https://img.freepik.com/free-vector/laptop-isometric-hiring-illustration_23-2148085112.jpg?t=st=1720441306~exp=1720444906~hmac=da4528d97fde13b6fdcd88e103bb189ac627a86ded0718c73f266edbb6a5fd55&w=740" alt="hero" />
           </div>
         </div>
         <div className="grid grid-cols-2 md:flex justify-around w-full mt-10 pt-3">
